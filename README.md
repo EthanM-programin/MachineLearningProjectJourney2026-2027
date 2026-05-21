@@ -8,4 +8,4 @@ A daily-updated repository tracking my progress through foundational math, appli
 ## Daily Commit Log
 - **May 19, 2026:** Repo initialized, environment tested with basic NumPy matrix operations.
 - **May 20, 2026:** Organized repository structure and built foundational ReLU and Sigmoid activation functions using NumPy.
-- **May 21, 2026::** Implemented Mean Squared Error (MSE) to calculate mathematical loss and score AI predictions.
+- **May 21, 2026:** Implemented Mean Squared Error (MSE) to calculate mathematical loss and score AI predictions.
