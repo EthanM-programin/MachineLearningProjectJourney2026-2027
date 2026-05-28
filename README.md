@@ -10,3 +10,5 @@ A daily-updated repository tracking my progress through foundational math, appli
 - **May 20, 2026:** Organized repository structure and built foundational ReLU and Sigmoid activation functions using NumPy.
 - **May 21, 2026:** Implemented Mean Squared Error (MSE) to calculate mathematical loss and score AI predictions.
 - **May 28, 2026:** Built Gradient Descent to simulate the AI learning and mathematically updating weights over multiple epochs.
+- **May 28, 2026:** Migrated to PyTorch, implemented Tensors, and utilized Autograd for automatic gradient computation.
+- **May 28, 2026:** Built a complete, end-to-end Neural Network training loop using PyTorch's `nn.Sequential`, `MSELoss`, and `SGD` optimizer.
